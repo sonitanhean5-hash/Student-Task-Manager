@@ -1,5 +1,14 @@
 # Milestones
 
+## M0 Proposal (week 3)
+
+See `PROPOSAL.md` (problem, roles, 9 user stories, MVP scope, 3 entities, stretch feature).
+
+### Explain: Which story did you cut from the MVP, and why?
+
+I cut story 8 (search, filter and pagination) and story 9 (admin list of users). Neither is needed for the core loop of registering, creating a task, editing it and marking it completed, so the app is useful without them. Story 8 is my stretch feature and I build it after the must-have stories, once the basic task list works. Story 9 only lets the admin monitor use, and no student depends on it, so it is the first thing I drop if time runs short.
+
+
 ## M1 Frontend prototype (week 5)
 
 | Checklist item | Where |
